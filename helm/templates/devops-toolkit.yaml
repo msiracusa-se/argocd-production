@@ -16,7 +16,7 @@ spec:
         image:
           tag: 2.9.17
         ingress:
-          host: production.devops-toolkit.127.0.0.1.nip.io
+          host: production.devops-toolkit.20.81.64.167.nip.io
       version: v3
   destination:
     namespace: production
